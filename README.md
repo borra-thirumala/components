@@ -1,3 +1,5 @@
+Created Counter using Class based Components starting from 0 and starting from a given number passed throught props from another component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
