@@ -1,0 +1,39 @@
+functional components==>named function, arrow function, anonymous function
+
+2 types of components
+1)functional
+2)class based components
+
+
+
+
+
+
+class: blueprint to create an object
+
+
+agenda:
+to create a class component
+to create a class component define with "class" keyword
+class-defines the type of component
+comp name - 
+extends - to access the methods and functions in the components
+React.component
+
+render(){
+    return(<>jsx</>)
+}
+
+constructor(){
+    super()
+    this.state={
+        key:value
+    }
+}
+
+
+
+Javascript class consists of:
+1)constructor
+2)super-->used to access the properties from parent class
+3)state-we can manage state, state is an object containing the current values of variables.
